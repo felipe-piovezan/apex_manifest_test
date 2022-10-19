@@ -1,0 +1,15 @@
+{
+    "customApps": [
+        {
+            "internalName": "MY_CUSTOM_APP",
+            "name": "Felipe Custom App",
+            "description": "This app is a custom app.",
+            "author": "Felipe Piovezan",
+            "version": "1.0.0",
+            "icon": "https://raw.githubusercontent.com/oracle/apex/22.2/docs/img/apps/app-customer-tracker.svg",
+"url": "https://github.com/oracle/apex/tree/22.2/starter-apps/customers",
+"source": "https://raw.githubusercontent.com/oracle/apex/22.2/starter-apps/customers/customers.sql",
+"zip": "https://raw.githubusercontent.com/oracle/apex/22.2/starter-apps/customers/customers.zip"
+        }
+    ]
+}
