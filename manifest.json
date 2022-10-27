@@ -1,11 +1,11 @@
 {
     "customApps": [
         {
-            "internalName": "MY_CUSTOM_APP",
-            "name": "Felipe Custom App",
-            "description": "This app is a custom app.",
+            "internalName": "OIC_PIPELINE",
+            "name": "OIC Pipeline",
+            "description": "This app manages OIC artefacts (Integrations, Packages, Lookups), manages and control an developer pipeline across various enviroments, has an auto backup feature that can navigate in time and has a set of useful reports, like integration audit, scheduled details, etc.",
             "author": "Felipe Piovezan",
-            "version": "1.0.0",
+            "version": "2.5.0",
             "icon": "https://raw.githubusercontent.com/oracle/apex/22.2/docs/img/apps/app-customer-tracker.svg",
 "url": "https://github.com/oracle/apex/tree/22.2/starter-apps/customers",
 "source": "https://raw.githubusercontent.com/oracle/apex/22.2/starter-apps/customers/customers.sql",
