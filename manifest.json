@@ -9,7 +9,7 @@
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/application_icon.png",
 "url": "https://github.com/felipe-piovezan/apex_manifest_test",
 "source": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.sql",
-"zip": "https://github.com/felipe-piovezan/apex_manifest_test/raw/main/01_application_install.zip"
+"zip": "https://github.com/felipe-piovezan/apex_manifest_test/blob/054033369153f0c845a58775ea0677ebf1142d2e/01_application_install.zip"
         }
     ]
 }
