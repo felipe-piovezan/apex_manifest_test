@@ -8,7 +8,6 @@
             "version": "2.5.0",
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/application_icon.png",
 "url": "https://github.com/felipe-piovezan/apex_manifest_test",
-"source": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.sql",
 "zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.zip"
         }
     ]
