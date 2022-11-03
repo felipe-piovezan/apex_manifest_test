@@ -5,7 +5,7 @@
             "name": "OIC Pipeline",
             "description": "This app manages OIC artefacts (Integrations, Packages, Lookups), manages and control an developer pipeline across various enviroments, has an auto backup feature that can navigate in time and has a set of useful reports, like integration audit, scheduled details, etc.",
             "author": "Felipe Piovezan",
-            "version": "2.5.0",
+            "version": "2.5",
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/application_icon.png",
             "url": "https://github.com/felipe-piovezan/apex_manifest_test",
             "zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.zip",
