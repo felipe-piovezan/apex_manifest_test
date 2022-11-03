@@ -7,8 +7,13 @@
             "author": "Felipe Piovezan",
             "version": "2.5.0",
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/application_icon.png",
-"url": "https://github.com/felipe-piovezan/apex_manifest_test",
-"zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.zip"
+            "url": "https://github.com/felipe-piovezan/apex_manifest_test",
+            "zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/01_application_install.zip",
+            "c_requiriment_grants": [
+                {
+                    "object": "DBMS_PIPE"
+                }
+            ]
         }
     ]
 }
