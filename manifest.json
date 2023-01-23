@@ -29,6 +29,21 @@
                     "object": "DBMS_PIPE"
                 }
             ]
+        },
+        {
+            "internalName": "TIME_TRACKER",
+            "name": "TimeTracker",
+            "description": "Application to monitor the environment of work, organizing of time spent on tasks, approving hours and requesting overtime, generating charts and reports that help organize and manage projects and send them to the ERP",
+            "author": "Felipe Piovezan",
+            "version": "Release 1.0",
+            "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/TIME_TRACKER/application_icon.png",
+            "url": "https://github.com/felipe-piovezan/apex_manifest_test",
+            "source": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/TIME_TACKER/application_install.sql",
+            "c_requirement_grants": [
+                {
+                    "object": "DBMS_PIPE"
+                }
+            ]
         }
     ]
 }
