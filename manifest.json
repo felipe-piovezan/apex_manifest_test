@@ -38,12 +38,7 @@
             "version": "Release 1.0",
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/TIME_TRACKER/application_icon.png",
             "url": "https://github.com/felipe-piovezan/apex_manifest_test",
-            "zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/TIME_TACKER/application_install.zip",
-            "c_requirement_grants": [
-                {
-                    "object": "DBMS_PIPE"
-                }
-            ]
+            "zip": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/TIME_TRACKER/application_install.zip"            
         }
     ]
 }
