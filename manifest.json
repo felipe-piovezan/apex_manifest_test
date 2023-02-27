@@ -5,7 +5,7 @@
             "name": "OIC Pipeline 2",
             "description": "This app manages OIC artefacts (Integrations, Packages, Lookups), manages and control an developer pipeline across various enviroments, has an auto backup feature that can navigate in time and has a set of useful reports, like integration audit, scheduled details, etc.",
             "author": "Felipe Piovezan",
-            "version": "Release 2.9",
+            "version": "Release 2.9.1",
             "icon": "https://raw.githubusercontent.com/felipe-piovezan/apex_manifest_test/main/apps/OIC_PIPELINE/application_icon.png",
             "url": "https://github.com/felipe-piovezan/apex_manifest_test",
             "zip": "https://api.clockify.me/api/v1/workspaces/:workspace_id/projects?page-size=500&hydrated=true",
